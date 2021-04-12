@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51e6c5f1-2165-4f65-9cfd-54587d260f99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qoPTp8sRdEqddzGaezERyzW5ms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/conf" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../producer/scripts/utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/conf" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../producer/scripts/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hr_consumer">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="collect_data_from_dota" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/collect_data_from_dota.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hr_consumer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="consumers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/consumers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/consumers/hr_consumer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hr_consumer" />
+        <item itemvalue="Python.collect_data_from_dota" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51e6c5f1-2165-4f65-9cfd-54587d260f99" name="Default Changelist" comment="" />
+      <created>1617742980099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617742980099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618204773823">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="368" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1617744656092" />
+    <state x="368" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.721@0.23.1280.721" timestamp="1618204773823" />
+    <state x="378" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618200760979">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1617914475478" />
+    <state x="378" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.730@0.23.1280.730" timestamp="1618200760979" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom" timestamp="1618204869017">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1617914797673" />
+    <state width="1259" height="177" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1618204869017" />
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1618203786627" />
+    <state width="1259" height="181" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1618203592231" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center" timestamp="1618204869015">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1617914797672" />
+    <state width="1259" height="177" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1618204869015" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1618203786626" />
+    <state width="1259" height="181" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1618203592230" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left" timestamp="1618204869015">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1617914797672" />
+    <state width="1259" height="177" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1618204869015" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1618203786626" />
+    <state width="1259" height="181" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1618203592229" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right" timestamp="1618204869016">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1617914797673" />
+    <state width="1259" height="177" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1618204869016" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1618203786627" />
+    <state width="1259" height="181" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1618203592230" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1618191964184">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1618191964184" />
+    <state x="338" y="32" width="604" height="735" key="find.popup" timestamp="1617914748751">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="338" y="32" width="604" height="735" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1617914748751" />
+    <state x="370" y="244" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1617914711012">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="370" y="244" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.800@0.0.1280.800" timestamp="1617914711012" />
+  </component>
+</project>

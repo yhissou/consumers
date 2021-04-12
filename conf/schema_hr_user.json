@@ -1,0 +1,19 @@
+{
+    "type": "object",
+    "properties": {
+        "code": {"type": "number"},
+        "meta": {"type": ["object","null"]},
+        "data": {
+          "type": "object",
+          "properties": {
+            "id": {"type": "number"},
+            "name": {"type": "string"},
+            "email": {"type": "string"},
+            "gender": {"type": "string"},
+            "status": {"type": "string"},
+            "created_at": {"type": "string"},
+            "updated_at": {"type": "string"}
+          }
+         }
+    }
+}

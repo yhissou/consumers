@@ -1,0 +1,276 @@
+04-12 06:59 root         INFO     Start Consumer at : 2021-04-12 06:59:53.423941
+04-12 07:07 root         INFO     Start Consumer at : 2021-04-12 07:07:53.501143
+04-12 07:11 root         INFO     Received message 'b"{'code': 200, 'meta': None, 'data': {'id': 1, 'name': 'Sumitra Asan', 'email': 'sumitra_asan@wilderman.biz', 'gender': 'Male', 'status': 'Active', 'created_at': '2021-04-12T03:50:03.505+05:30', 'updated_at': '2021-04-12T03:50:03.505+05:30'}}"' id='(774983,130,1,0)', partition_key='1'
+04-12 07:11 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:11 root         ERROR    Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+04-12 07:11 root         INFO      Message received is not correct 
+04-12 07:11 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:14 root         INFO     Start Consumer at : 2021-04-12 07:14:06.014774
+04-12 07:14 root         INFO     Received message 'b"{'code': 200, 'meta': None, 'data': {'id': 1, 'name': 'Sumitra Asan', 'email': 'sumitra_asan@wilderman.biz', 'gender': 'Male', 'status': 'Active', 'created_at': '2021-04-12T03:50:03.505+05:30', 'updated_at': '2021-04-12T03:50:03.505+05:30'}}"' id='(774983,130,1,0)', partition_key='1'
+04-12 07:14 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:14 root         ERROR    Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+04-12 07:14 root         INFO      Message received is not correct 
+04-12 07:14 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:14 root         INFO     Received message 'b"{'code': 200, 'meta': None, 'data': {'id': 1, 'name': 'Sumitra Asan', 'email': 'sumitra_asan@wilderman.biz', 'gender': 'Male', 'status': 'Active', 'created_at': '2021-04-12T03:50:03.505+05:30', 'updated_at': '2021-04-12T03:50:03.505+05:30'}}"' id='(775040,0,1,0)', partition_key='1'
+04-12 07:14 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:14 root         ERROR    Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+04-12 07:14 root         INFO      Message received is not correct 
+04-12 07:14 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:16 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 1, "name": "Sumitra Asan", "email": "sumitra_asan@wilderman.biz", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.505+05:30", "updated_at": "2021-04-12T03:50:03.505+05:30"}}'' id='(775040,1,1,0)', partition_key='1'
+04-12 07:16 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:16 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:16 root         INFO      Message received is not correct 
+04-12 07:16 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:16 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 3, "name": "Ms. Atmanand Nehru", "email": "atmanand_ms_nehru@zulauf.org", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.570+05:30", "updated_at": "2021-04-12T03:50:03.570+05:30"}}'' id='(775040,2,1,0)', partition_key='3'
+04-12 07:16 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:16 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:16 root         INFO      Message received is not correct 
+04-12 07:16 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:16 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 5, "name": "Girika Varma", "email": "varma_girika@cassin.biz", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.608+05:30", "updated_at": "2021-04-12T03:50:03.608+05:30"}}'' id='(774982,60,0,0)', partition_key='5'
+04-12 07:16 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:16 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:16 root         INFO      Message received is not correct 
+04-12 07:16 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 7, "name": "Opaline Singh", "email": "opaline_singh@cartwright.net", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.656+05:30", "updated_at": "2021-04-12T03:50:03.656+05:30"}}'' id='(774981,82,2,0)', partition_key='7'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 9, "name": "Umang Agarwal", "email": "agarwal_umang@kutch-haley.org", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.679+05:30", "updated_at": "2021-04-12T03:50:03.679+05:30"}}'' id='(775041,0,2,0)', partition_key='9'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 10, "name": "prashanth", "email": "meenakshi_bhattacharya@veum-hills.org", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.686+05:30", "updated_at": "2021-04-12T10:31:25.724+05:30"}}'' id='(775040,3,1,0)', partition_key='10'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 11, "name": "Rajesh", "email": "omana_mehra_the_hon@skiles.net", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.706+05:30", "updated_at": "2021-04-12T06:48:54.905+05:30"}}'' id='(775041,1,2,0)', partition_key='11'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 12, "name": "Charuvrat Dubashi", "email": "charuvrat_dubashi@pouros-schaefer.com", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.714+05:30", "updated_at": "2021-04-12T03:50:03.714+05:30"}}'' id='(775042,0,0,0)', partition_key='12'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 13, "name": "Amb. Gaurang Dwivedi", "email": "amb_dwivedi_gaurang@schuster-lesch.io", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.740+05:30", "updated_at": "2021-04-12T03:50:03.740+05:30"}}'' id='(775040,4,1,0)', partition_key='13'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 14, "name": "Adityanandana Pilla", "email": "adityanandana_pilla@kozey.name", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.747+05:30", "updated_at": "2021-04-12T03:50:03.747+05:30"}}'' id='(775042,1,0,0)', partition_key='14'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 15, "name": "Vyctor Hugo", "email": "vyctorhugoc@gmail.com.br", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.750+05:30", "updated_at": "2021-04-12T08:33:21.558+05:30"}}'' id='(775042,2,0,0)', partition_key='15'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:17 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 16, "name": "Tarun Rana", "email": "rana_tarun@davis.co", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.763+05:30", "updated_at": "2021-04-12T03:50:03.763+05:30"}}'' id='(775040,5,1,0)', partition_key='16'
+04-12 07:17 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:17 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:17 root         INFO      Message received is not correct 
+04-12 07:17 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Start Consumer at : 2021-04-12 07:18:26.080851
+04-12 07:18 root         INFO     Received message 'b"{'code': 200, 'meta': None, 'data': {'id': 1, 'name': 'Sumitra Asan', 'email': 'sumitra_asan@wilderman.biz', 'gender': 'Male', 'status': 'Active', 'created_at': '2021-04-12T03:50:03.505+05:30', 'updated_at': '2021-04-12T03:50:03.505+05:30'}}"' id='(774983,130,1,0)', partition_key='1'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b"{'code': 200, 'meta': None, 'data': {'id': 1, 'name': 'Sumitra Asan', 'email': 'sumitra_asan@wilderman.biz', 'gender': 'Male', 'status': 'Active', 'created_at': '2021-04-12T03:50:03.505+05:30', 'updated_at': '2021-04-12T03:50:03.505+05:30'}}"' id='(775040,0,1,0)', partition_key='1'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 1, "name": "Sumitra Asan", "email": "sumitra_asan@wilderman.biz", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.505+05:30", "updated_at": "2021-04-12T03:50:03.505+05:30"}}'' id='(775040,1,1,0)', partition_key='1'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 3, "name": "Ms. Atmanand Nehru", "email": "atmanand_ms_nehru@zulauf.org", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.570+05:30", "updated_at": "2021-04-12T03:50:03.570+05:30"}}'' id='(775040,2,1,0)', partition_key='3'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 10, "name": "prashanth", "email": "meenakshi_bhattacharya@veum-hills.org", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.686+05:30", "updated_at": "2021-04-12T10:31:25.724+05:30"}}'' id='(775040,3,1,0)', partition_key='10'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 13, "name": "Amb. Gaurang Dwivedi", "email": "amb_dwivedi_gaurang@schuster-lesch.io", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.740+05:30", "updated_at": "2021-04-12T03:50:03.740+05:30"}}'' id='(775040,4,1,0)', partition_key='13'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 16, "name": "Tarun Rana", "email": "rana_tarun@davis.co", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.763+05:30", "updated_at": "2021-04-12T03:50:03.763+05:30"}}'' id='(775040,5,1,0)', partition_key='16'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 17, "name": "Rev. Bhupati Patel", "email": "rev_bhupati_patel@daugherty.co", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.769+05:30", "updated_at": "2021-04-12T03:50:03.769+05:30"}}'' id='(775040,6,1,0)', partition_key='17'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 1, "name": "Sumitra Asan", "email": "sumitra_asan@wilderman.biz", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.505+05:30", "updated_at": "2021-04-12T03:50:03.505+05:30"}}'' id='(775040,7,1,0)', partition_key='1'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 3, "name": "Ms. Atmanand Nehru", "email": "atmanand_ms_nehru@zulauf.org", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.570+05:30", "updated_at": "2021-04-12T03:50:03.570+05:30"}}'' id='(775040,8,1,0)', partition_key='3'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 10, "name": "prashanth", "email": "meenakshi_bhattacharya@veum-hills.org", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.686+05:30", "updated_at": "2021-04-12T10:31:25.724+05:30"}}'' id='(775040,9,1,0)', partition_key='10'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 5, "name": "Girika Varma", "email": "varma_girika@cassin.biz", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.608+05:30", "updated_at": "2021-04-12T03:50:03.608+05:30"}}'' id='(774982,60,0,0)', partition_key='5'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 12, "name": "Charuvrat Dubashi", "email": "charuvrat_dubashi@pouros-schaefer.com", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.714+05:30", "updated_at": "2021-04-12T03:50:03.714+05:30"}}'' id='(775042,0,0,0)', partition_key='12'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 14, "name": "Adityanandana Pilla", "email": "adityanandana_pilla@kozey.name", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.747+05:30", "updated_at": "2021-04-12T03:50:03.747+05:30"}}'' id='(775042,1,0,0)', partition_key='14'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 15, "name": "Vyctor Hugo", "email": "vyctorhugoc@gmail.com.br", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.750+05:30", "updated_at": "2021-04-12T08:33:21.558+05:30"}}'' id='(775042,2,0,0)', partition_key='15'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 21, "name": "Bhamini Shah", "email": "shah_bhamini@cummings-morar.info", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.836+05:30", "updated_at": "2021-04-12T03:50:03.836+05:30"}}'' id='(775042,3,0,0)', partition_key='21'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 5, "name": "Girika Varma", "email": "varma_girika@cassin.biz", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.608+05:30", "updated_at": "2021-04-12T03:50:03.608+05:30"}}'' id='(775042,4,0,0)', partition_key='5'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 7, "name": "Opaline Singh", "email": "opaline_singh@cartwright.net", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.656+05:30", "updated_at": "2021-04-12T03:50:03.656+05:30"}}'' id='(774981,82,2,0)', partition_key='7'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 9, "name": "Umang Agarwal", "email": "agarwal_umang@kutch-haley.org", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.679+05:30", "updated_at": "2021-04-12T03:50:03.679+05:30"}}'' id='(775041,0,2,0)', partition_key='9'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 11, "name": "Rajesh", "email": "omana_mehra_the_hon@skiles.net", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.706+05:30", "updated_at": "2021-04-12T06:48:54.905+05:30"}}'' id='(775041,1,2,0)', partition_key='11'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 18, "name": "Deepankar Gandhi", "email": "gandhi_deepankar@schumm.info", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.780+05:30", "updated_at": "2021-04-12T03:50:03.780+05:30"}}'' id='(775041,2,2,0)', partition_key='18'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 19, "name": "Tara Trivedi", "email": "tara_trivedi@kovacek-jast.org", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.803+05:30", "updated_at": "2021-04-12T03:50:03.803+05:30"}}'' id='(775041,3,2,0)', partition_key='19'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": None, "data": {"id": 20, "name": "Jagdish Trivedi Sr.", "email": "jagdish_sr_trivedi@hintz.biz", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.817+05:30", "updated_at": "2021-04-12T03:50:03.817+05:30"}}'' id='(775041,4,2,0)', partition_key='20'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         ERROR    Expecting value: line 1 column 23 (char 22)
+04-12 07:18 root         INFO      Message received is not correct 
+04-12 07:18 root         INFO      Message sent to Pulsar Rejection Topic for reprocessing
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 7, "name": "Opaline Singh", "email": "opaline_singh@cartwright.net", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.656+05:30", "updated_at": "2021-04-12T03:50:03.656+05:30"}}'' id='(775041,5,2,0)', partition_key='7'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 9, "name": "Umang Agarwal", "email": "agarwal_umang@kutch-haley.org", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.679+05:30", "updated_at": "2021-04-12T03:50:03.679+05:30"}}'' id='(775041,6,2,0)', partition_key='9'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 11, "name": "Rajesh", "email": "omana_mehra_the_hon@skiles.net", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.706+05:30", "updated_at": "2021-04-12T06:48:54.905+05:30"}}'' id='(775041,7,2,0)', partition_key='11'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 12, "name": "Charuvrat Dubashi", "email": "charuvrat_dubashi@pouros-schaefer.com", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.714+05:30", "updated_at": "2021-04-12T03:50:03.714+05:30"}}'' id='(775042,5,0,0)', partition_key='12'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 13, "name": "Amb. Gaurang Dwivedi", "email": "amb_dwivedi_gaurang@schuster-lesch.io", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.740+05:30", "updated_at": "2021-04-12T03:50:03.740+05:30"}}'' id='(775040,10,1,0)', partition_key='13'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 14, "name": "Adityanandana Pilla", "email": "adityanandana_pilla@kozey.name", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.747+05:30", "updated_at": "2021-04-12T03:50:03.747+05:30"}}'' id='(775042,6,0,0)', partition_key='14'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 15, "name": "Vyctor Hugo", "email": "vyctorhugoc@gmail.com.br", "gender": "Male", "status": "Active", "created_at": "2021-04-12T03:50:03.750+05:30", "updated_at": "2021-04-12T08:33:21.558+05:30"}}'' id='(775042,7,0,0)', partition_key='15'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 16, "name": "Tarun Rana", "email": "rana_tarun@davis.co", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.763+05:30", "updated_at": "2021-04-12T03:50:03.763+05:30"}}'' id='(775040,11,1,0)', partition_key='16'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 17, "name": "Rev. Bhupati Patel", "email": "rev_bhupati_patel@daugherty.co", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.769+05:30", "updated_at": "2021-04-12T03:50:03.769+05:30"}}'' id='(775040,12,1,0)', partition_key='17'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 18, "name": "Deepankar Gandhi", "email": "gandhi_deepankar@schumm.info", "gender": "Female", "status": "Inactive", "created_at": "2021-04-12T03:50:03.780+05:30", "updated_at": "2021-04-12T03:50:03.780+05:30"}}'' id='(775041,8,2,0)', partition_key='18'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 19, "name": "Tara Trivedi", "email": "tara_trivedi@kovacek-jast.org", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.803+05:30", "updated_at": "2021-04-12T03:50:03.803+05:30"}}'' id='(775041,9,2,0)', partition_key='19'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 20, "name": "Jagdish Trivedi Sr.", "email": "jagdish_sr_trivedi@hintz.biz", "gender": "Male", "status": "Inactive", "created_at": "2021-04-12T03:50:03.817+05:30", "updated_at": "2021-04-12T03:50:03.817+05:30"}}'' id='(775041,10,2,0)', partition_key='20'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
+04-12 07:18 root         INFO     Received message 'b'{"code": 200, "meta": null, "data": {"id": 21, "name": "Bhamini Shah", "email": "shah_bhamini@cummings-morar.info", "gender": "Female", "status": "Active", "created_at": "2021-04-12T03:50:03.836+05:30", "updated_at": "2021-04-12T03:50:03.836+05:30"}}'' id='(775042,8,0,0)', partition_key='21'
+04-12 07:18 root         INFO      Check if message is valid based on our Contract Schema (Can use Avro...)
+04-12 07:18 root         INFO      Message received is correct 
+04-12 07:18 root         INFO      Message transformed
+04-12 07:18 root         INFO      Message sent to SQLITE DB
+04-12 07:18 root         INFO     test
